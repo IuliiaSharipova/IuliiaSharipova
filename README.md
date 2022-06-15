@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi everyone!
+
+
+[![Github stats](https://github-readme-stats.vercel.app/api?username=IuliiaSharipova&show_icons=true&hide_border=true)](https://github.com/IuliiaSharipova)
+<br/>
+Contact me via:<br/> <br/>
+[<img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/iuliia-sharipova-2862a0241/)
+[<img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"/>](mailto:sharipova.y.s@gmail.com)
+
+
+
 
 <!--
 **IuliiaSharipova/IuliiaSharipova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
